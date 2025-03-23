@@ -26,8 +26,8 @@ Output:
 ```json
 {
     "UserId": "AID...",
-    "Account": "739275443872",
-    "Arn": "arn:aws:iam::739275443872:user/Admin"
+    "Account": "123456789012",
+    "Arn": "arn:aws:iam::123456789012:user/Admin"
 }
 ```
 
